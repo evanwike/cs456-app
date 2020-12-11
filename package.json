@@ -2,6 +2,7 @@
   "name": "cs456-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://evanwike.github.io/cs456-project",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -9,6 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
